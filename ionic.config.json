@@ -1,0 +1,6 @@
+{
+  "name": "ionic2pushnew",
+  "app_id": "<yourappid>",
+  "v2": true,
+  "typescript": true
+}
